@@ -1,0 +1,2 @@
+# Atomus.Service.WcfServiceClientExtensions
+Atomus.Service.WcfServiceClientExtensions
